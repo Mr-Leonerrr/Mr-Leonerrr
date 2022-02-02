@@ -27,7 +27,7 @@ Right now, I'm learning TypeScript, Linux Shell, Search Engine Optimization, Web
 
 ## :eyes: How can I connect with you?
 
-You can email me through <a href="mailto:lnatera27@gmail.com">Gmail</a>, also you can DM me on [Twitter](https://twitter.com/soyleoner_) or Joining to my [Discord server](https://discord.gg/uJguFNpkWU). You can talk to me about coding in general.
+You can email me through <a href="mailto:hello@mrleoner.com.co">Gmail</a>, also you can DM me on [Twitter](https://twitter.com/soyleoner_) or Joining to my [Discord server](https://discord.gg/uJguFNpkWU). You can talk to me about coding in general.
 
 ## :bar_chart: GitHub Stats
 
