@@ -6,24 +6,27 @@
 
 I'm a computer and enthusiast at heart, and have been ever since picking up my first controller as a kid. Young Engineering student, passionate about programming. Dreamer and lover of any artistic expression that seeks a positive change. ⚡
 
-Currently, I make customized discord bots with features ranging from custom commands to, well, whatever the client wants. The fun is in trying to make it work even with the technical limitations that are presented. 🤯
+Currently, I make customized discord bots with features ranging from custom commands to, well, whatever the client wants. The fun is in trying to make it work even with the technical limitations that are presented. Also, I'm working on the magento framework in the backend area developing custom modules with different integrations. 🤯
 
 I'm really bad at the whole "describe yourself" and "advertising" aspect, but don't let that fool you when it comes to my skills as a programmer. My focus has always been writing code, and not so much art/design. 😋
 
 ## :star: Skills
 
 <div align="">  
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />  
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="60" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="60" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" alt="Magento" height="60" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="60" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="60" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="60" />
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord JS" height="60" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60" />  
 </div>  
 
 ## :books: What are you currently learning?
 
-Right now, I'm learning TypeScript, Linux Shell, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my TypeScript skills.
+Right now, I'm learning TypeScript, Linux Shell, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my Magento skills.
 
 ## :eyes: How can I connect with you?
 
