@@ -6,7 +6,7 @@
 
 I've been passionate about computers since I picked up my first controller as a kid. Young Engineering student, passionate about programming. Dreamer and lover of any artistic expression that seeks a positive change. ⚡
 
-Currently, I make customized discord bots with features ranging from custom commands to, well, whatever the client wants. The fun is in trying to make it work even with the technical limitations that are presented. Also, I'm working on the magento framework in the backend area developing custom modules with different integrations. 🤯
+Currently, I make customized discord bots with features ranging from custom commands to, well, whatever the client wants. The fun is in trying to make it work even with the technical limitations that are presented. Also, I'm working on the Magento framework in the backend area, developing custom modules with different integrations. 🤯
 
 I'm really bad at the whole "describe yourself" and "advertising" aspect, but don't let that fool you when it comes to my skills as a programmer. My focus has always been writing code, and not so much art/design. 😋
 
@@ -30,7 +30,7 @@ Right now, I'm learning TypeScript, Linux Shell, Search Engine Optimization, Web
 
 ## :eyes: How can I connect with you?
 
-You can email me through <a href="mailto:hello@mrleoner.com.co">Gmail</a>, also you can DM me on [Twitter](https://twitter.com/soyleoner_) or Joining to my [Discord server](https://discord.gg/uJguFNpkWU). You can talk to me about coding in general.
+You can email me through <a href="mailto:leoner@biglions.net">Gmail</a>, also you can DM me on [Twitter](https://twitter.com/soyleoner_) or Joining to my [Discord server](https://discord.gg/uJguFNpkWU). You can talk to me about coding in general.
 
 ## :bar_chart: GitHub Stats
 
@@ -41,4 +41,4 @@ You can email me through <a href="mailto:hello@mrleoner.com.co">Gmail</a>, also 
 
 ## 🍃 — Keep up to date on my adventures, follow me everywhere
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/soyleoner_?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/soyleoner_) [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://ko-fi.com/mrleonerrr?via=mrleonerrr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/soyleoner_?label=Follow%20me&logo=x&style=for-the-badge)](https://twitter.com/soyleoner_) [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me-☕-orange.svg?style=for-the-badge)](https://ko-fi.com/mrleonerrr?via=mrleonerrr)
