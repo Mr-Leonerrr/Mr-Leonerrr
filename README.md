@@ -4,7 +4,7 @@
 
 ## ❓ Who are you?
 
-I've been passionate about computers since I picked up my first controller as a kid. Young Engineering, passionate about programming. Dreamer and lover of any artistic expression that seeks a positive change. ⚡
+I've been passionate about computers since I picked up my first controller as a kid. Young Engineer, passionate about programming. Dreamer and lover of any artistic expression that seeks a positive change. ⚡
 
 Currently, I make customized discord bots with features ranging from custom commands to, well, whatever the client wants. The fun is in trying to make it work even with the technical limitations that are presented. Also, I'm working on the Magento framework in the backend area, developing custom modules with different integrations. 🤯
 
